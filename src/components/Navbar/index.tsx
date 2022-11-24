@@ -1,6 +1,6 @@
 import Link from "next/link"
 
-export function Header() {
+export function Navbar() {
   return (
     <nav>
       <Link href='/'>Home - </Link>
